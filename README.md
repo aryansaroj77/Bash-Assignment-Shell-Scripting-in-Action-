@@ -20,6 +20,7 @@ Move .txt files from the workfile/ folder to the backup/ folder with a timestamp
 
 ⏰ Adds date & time to filenames for better tracking
 
+
 🧠 Task 2: System Spy
 Monitor system health in real-time.
 
@@ -31,6 +32,8 @@ RAM < 20%
 
 📝 Logs stored in system_health.log
 
+
+
 👤 Task 3: User Factory
 Automatically create Linux users from a predefined list.
 
@@ -40,12 +43,15 @@ Automatically create Linux users from a predefined list.
 
 🎭 Sample Users: aryan, kratos, zoro
 
+
+
 📦 Task 4: Directory Time Capsule
 Ask the user for a folder, and compress it like magic!
 
 🗂️ Output: backup_YYYY-MM-DD.tar.gz
 
 💽 Ideal for backups and versioned snapshots
+
 
 🗒️ Task 5: To-Do Commander
 A command-line interface to manage your personal tasks.
@@ -58,6 +64,8 @@ A command-line interface to manage your personal tasks.
 
 📁 Tasks saved in todo.txt
 
+
+
 ⚙️ Task 6: Auto Installer
 Install multiple packages from a list.
 
@@ -66,6 +74,8 @@ Install multiple packages from a list.
 📦 Installs using apt
 
 📋 Logs success/failure for each install
+
+
 
 📚 Task 7: Text Detective
 Analyze any .txt file for patterns and statistics.
