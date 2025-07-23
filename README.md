@@ -13,11 +13,10 @@ Lights, camera, BASH! 🎥 Dive into this collection of practical scripting task
 
 
 ## 📚 Table of Contents
+## ✅ What You’ll Learn
 
-1. [Task 1: File Teleportation](#-task-1-file-teleportation)
-2. [Task 2: System Spy](#-task-2-system-spy)
-3. [Task 3: User Factory](#-task-3-user-factory)
-4. [Task 4: Directory Time Capsule](#-task-4-directory-time-capsule)
-5. [Task 5: To-Do Commander](#-task-5-to-do-commander)
-6. [Task 6: Auto Installer](#-task-6-auto-installer)
-7. [Task 7: Text Detective](#-task-7-text-detective)
+- [x] How to write real Bash scripts
+- [x] Automate boring stuff
+- [x] System monitoring using shell
+- [x] Create users and manage tasks via CLI
+- [x] Make backups and parse text
