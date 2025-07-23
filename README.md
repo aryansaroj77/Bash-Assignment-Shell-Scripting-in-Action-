@@ -9,14 +9,5 @@ Lights, camera, BASH! 🎥 Dive into this collection of practical scripting task
 
 ## 📺 Demo Preview
 
-![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0ZDdkMmE4ZTVkY2JmZTdkZjc3M2RmMjg5YWI1NjI5Y2EyOTg5OCZjdD1n/g7b8fJrG1tI8FfTQnH/giphy.gif)
+![Demo]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0ZDdkMmE4ZTVkY2JmZTdkZjc3M2RmMjg5YWI1NjI5Y2EyOTg5OCZjdD1n/g7b8fJrG1tI8FfTQnH/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYxMDQzeGN5MDQ2dHB0MnZwdTJmMHM0ZmEwZzBpOHEwMnVmajI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif))
 
-
-## 📚 Table of Contents
-## ✅ What You’ll Learn
-
-- [x] How to write real Bash scripts
-- [x] Automate boring stuff
-- [x] System monitoring using shell
-- [x] Create users and manage tasks via CLI
-- [x] Make backups and parse text
