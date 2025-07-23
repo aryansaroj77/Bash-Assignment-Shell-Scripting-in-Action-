@@ -6,7 +6,7 @@ Lights, camera, BASH! 🎥 Dive into this collection of practical scripting task
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue)
 ![Automation](https://img.shields.io/badge/Automation-100%25-yellow)
 
-![Shell Scripting in Action Demo](https://your-hosted-gif-url/demo.gif)
+![Demo GIF](https://github.com/aryansaroj77/YOUR-REPO/raw/main/bash_demo.gif)
 
 
 Lights, camera, BASH! 🎥
